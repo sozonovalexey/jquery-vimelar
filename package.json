@@ -1,0 +1,20 @@
+{
+  "name": "jquery.vimelar",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sozonovalexey/jquery-vimelar",
+  "description": "Vimelar is a jQuery plugin that lets you set a Vimeo video as your page background.",
+  "author": {
+    "name": "Sozonov Alexey",
+    "email": "sozonov.alexey@gmail.com",
+    "url": "http://sozonov-alexey.ru"
+  },
+  "main": "src/jquery.vimelar.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sozonovalexey/jquery-vimelar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sozonovalexey/jquery-vimelar/issues"
+  },
+  "license": "MIT"
+}

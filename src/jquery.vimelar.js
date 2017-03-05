@@ -1,7 +1,7 @@
 /**
  * jQuery Vimelar plugin
  * @author: Sozonov Alexey
- * @version: v.1.0
+ * @version: v.1.0.0
  * licensed under the MIT License
  * updated: July 5, 2015
  * since 2015
