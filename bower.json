@@ -8,7 +8,7 @@
   "description": "Vimelar is a jQuery plugin that lets you set a Vimeo video as your page background.",
   "license": "MIT",
   "main": [
-    "dist/jquery.vimelar.min.js"
+    "src/jquery.vimelar.js"
   ],
   "ignore": [
     "**/.*"
